@@ -59,3 +59,4 @@ COMPOUND TRIGGER
       END LOOP;    
    END AFTER STATEMENT;    
 END equitable_salary_trg; 
+
